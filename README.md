@@ -59,3 +59,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyup259&show_icons=true&theme=gotham" alt="saurabhsunny" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyup259&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8)](https://github.com/skyup259/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyu259)](https://github.com/skyup259/github-readme-stats)
