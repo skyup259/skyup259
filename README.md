@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **skyup259/skyup259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://twitter.com/Kumar259Saurabh">
+  <img align="left" alt="Saurabh Sunny | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/saurabhksunny/">
+  <img align="left" alt="Saurabh Sunny | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+
+Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate self-taught web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+
+  
+- 💼 Any web development work? Do reach, [email](mailto:saurabh.kumar259@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Angular      12 hrs 13 mins  ████████████████████▒░░░░   35.88 % 
+JavaScript   6 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   20.62 % 
+ES           8 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   25.62 % 
+CSS          46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+HTML         4 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Kibana       22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+```
+<!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyup259&show_icons=true&theme=gotham" alt="saurabhsunny" />
