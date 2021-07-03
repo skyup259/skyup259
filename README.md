@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Saurabh Sunny | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=skyup259.skyup259)
+
 <br />
 
 Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate self-taught web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -42,11 +44,11 @@ Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate sel
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Angular      12 hrs 13 mins  ████████████████████▒░░░░   35.88 % 
-JavaScript   6 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   20.62 % 
-ES           8 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   25.62 % 
+Angular      12 hrs 13 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  35.88 % 
+JavaScript   6 hrs 44 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.62 % 
+ES           8 hrs 22 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   25.62 % 
 CSS          46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-HTML         4 hrs 12 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+HTML         4 hrs 12 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 Kibana       22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 <!--END_SECTION:waka-->
