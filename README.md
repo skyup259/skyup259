@@ -60,7 +60,7 @@ Kibana       22 mins         ░░░░░░░░░░░░░░░░░
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyup259&show_icons=true&theme=gotham" alt="saurabhsunny" />
 
- My GitHub language Card
+💻 My GitHub language Card
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyup259&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8&card_width=450" alt="saurabhsunny" />
