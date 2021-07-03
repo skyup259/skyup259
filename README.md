@@ -63,9 +63,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
  My GitHub language Card
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyup259&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8" alt="saurabhsunny" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyup259&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8)](https://github.com/skyup259/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyup259&exclude_repo=github-readme-stats,campk12,hearandspell,90Plus,sks,loginandres&layout=compact&langs_count=8&card_width=450" alt="saurabhsunny" />
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saurabhsunny)](https://github.com/skyup259/github-readme-stats) -->
