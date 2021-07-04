@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://twitter.com/Kumar259Saurabh">
-  <img align="left" alt="Saurabh Sunny | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/saurabhksunny/">
-  <img align="left" alt="Saurabh Sunny | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Saurabh Sunny | LinkedIN" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/Kumar259Saurabh">
+  <img align="left" alt="Saurabh Sunny | Twitter" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/twitter.svg" />
+</a>
+<a href="http://instagram.com/saurabh_ksunny?igshid=1lm6ej4rqui8i">
+  <img align="left" alt="Saurabh Sunny | Instagram" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/people/Saurabh-K-Sunny/100002708935041">
+  <img align="left" alt="Saurabh Sunny | Facebook" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/facebook.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=skyup259.skyup259)
@@ -36,14 +42,14 @@ Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate sel
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
