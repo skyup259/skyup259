@@ -56,6 +56,8 @@ Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate sel
 <code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/kibana.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/skills/es.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
