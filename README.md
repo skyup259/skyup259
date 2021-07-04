@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate self-taught web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/programming.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/programming.gif?raw=true" width="420" height="290" />
   
 - 💼 Any web development work? Do reach, [email](mailto:saurabh.kumar259@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
