@@ -23,10 +23,16 @@ Here are some ideas to get you started:
   <img align="left" alt="Saurabh Sunny | Twitter" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/twitter.svg" />
 </a>
 <a href="http://instagram.com/saurabh_ksunny?igshid=1lm6ej4rqui8i">
-  <img align="left" alt="Saurabh Sunny | Instagram" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/twitter.svg" />
+  <img align="left" alt="Saurabh Sunny | Instagram" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/people/Saurabh-K-Sunny/100002708935041">
   <img align="left" alt="Saurabh Sunny | Facebook" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/facebook.svg" />
+</a>
+<a href="https://github.com/skyup259">
+  <img align="left" alt="Saurabh Sunny | Github" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/github.svg" />
+</a>
+<a href="https://paypal.me/saurabhksunny">
+  <img align="left" alt="Saurabh Sunny | Paypal" width="22px" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/paypal.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=skyup259.skyup259)
