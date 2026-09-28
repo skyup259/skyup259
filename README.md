@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate self-taught web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/portfolio/), a passionate self-taught web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/skyup259/skyup259/master/assets/programming.gif?raw=true" width="390" height="305" />
   
@@ -62,12 +62,13 @@ Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/sks/), a passionate sel
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Angular      12 hrs 13 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  35.88 % 
-JavaScript   6 hrs 44 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░  20.62 % 
-ES           8 hrs 22 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░  25.62 % 
-CSS          46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░  02.34 % 
-HTML         4 hrs 12 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░  12.86 % 
-Kibana       22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  01.12 % 
+Angular      12 hrs 13 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  30.41 %
+React        7 hrs 33 mins   ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  18.78 %
+JavaScript   6 hrs 44 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░  16.75 % 
+ES           8 hrs 22 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░  20.81 % 
+CSS          46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░  01.91 % 
+HTML         4 hrs 12 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░  10.45 % 
+Kibana       22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  0.91 % 
 ```
 <!--END_SECTION:waka-->
 
