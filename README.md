@@ -63,11 +63,11 @@ Hi, I'm [Saurabh Kumar Sunny](https://skyup259.github.io/portfolio/), a passiona
 <!--START_SECTION:waka-->
 ```text
 Angular      12 hrs 13 mins  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  30.41 %
-React        7 hrs 33 mins   ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░  18.78 %
-JavaScript   6 hrs 44 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░  16.75 % 
+React        7 hrs 33 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░  18.78 %
+JavaScript   6 hrs 44 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░  16.75 % 
 ES           8 hrs 22 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░  20.81 % 
 CSS          46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░  01.91 % 
-HTML         4 hrs 12 mins   ▓▓▓░░░░░░░░░░░░░░░░░░░░░░  10.45 % 
+HTML         4 hrs 12 mins   ▓▓░░░░░░░░░░░░░░░░░░░░░░░  10.45 % 
 Kibana       22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░  0.91 % 
 ```
 <!--END_SECTION:waka-->
